@@ -1,1 +1,1 @@
-# rustmajic
+# rustmagic
